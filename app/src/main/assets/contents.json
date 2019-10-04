@@ -1,0 +1,32 @@
+{
+  "android_play_store_link": "",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "1",
+      "name": "JIF 2019",
+      "publisher": "ACS Ifes",
+      "tray_image_file": "tray_Cuppy.png",
+      "image_data_version":"1",
+      "avoid_cache":false,
+      "publisher_email":"acs@ifes.edu.br",
+      "publisher_website": "http://jif2019.ifes.edu.br",
+      "privacy_policy_website": "",
+      "license_agreement_website": "",
+      "stickers": [
+        {
+          "image_file": "01_Cuppy_smile.webp",
+          "emojis": ["☕","🙂"]
+        },
+        {
+          "image_file": "02_Cuppy_lol.webp",
+          "emojis": ["😄","😀"]
+        },
+        {
+          "image_file": "03_Cuppy_rofl.webp",
+          "emojis": ["😆","😂"]
+        }
+      ]
+    }
+  ]
+}
